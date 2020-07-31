@@ -2,19 +2,7 @@
 
 I'm job market candidate and fifth year PhD student at the University of Oregon. I study continuous time macroeconomics and adaptive learning techniques, I'm also interested in machine learning techniques. 
 
-## I frequently code in 
-- Julia
-- R 
-- MATLAB 
-
-
-## I have experience coding  with 
-- Fortran 
-- C++ 
-- SAS 
-- Stata 
-- BASH, Assembly (MIPS), and others 
-
+I have several public repositories on this site they include my academic website (a heavily edited version of [minimal mistakes](https://mmistakes.github.io/minimal-mistakes/)), a repository of replicated continuous-time value function problems (original version can be found on Ben Moll's [website](https://benjaminmoll.com/codes/), and code for my third-year field paper. 
 
 
 
