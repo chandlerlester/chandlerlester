@@ -4,7 +4,7 @@ I'm a job market candidate and fifth year PhD student at the University of Orego
 
 I have several public repositories on this site they include my academic website (a heavily edited version of [minimal mistakes](https://mmistakes.github.io/minimal-mistakes/)), a repository of replicated continuous-time value function problems (original version can be found on Ben Moll's [website](https://benjaminmoll.com/codes/), and code for my third-year field paper. 
 
-On Github, I'm currently working on
+On Github, I'm currently working on:
 - Editing and posting more code from my dissertation
 - Learning more about Julia's pacakges and applications 
 - Brushing up on my Fortran 
