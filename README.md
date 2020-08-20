@@ -7,7 +7,7 @@ I have several public repositories on this site they include my academic website
 On Github, I'm currently working on:
 - Editing and posting more code from my dissertation
 - Learning more about Julia's pacakges and applications 
-- Brushing up on my Fortran 
+- Brushing up on my Fortran and practicing R
 
 <!--
 **chandlerlester/chandlerlester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
