@@ -6,5 +6,5 @@ I have several public repositories on this site they include my academic website
 
 On Github, I'm currently working on:
 - Editing and posting more code from my dissertation
-- Learning more about Julia's pacakges and applications 
+- Learning more about Julia's packages and applications 
 - Brushing up on my Fortran and practicing R
